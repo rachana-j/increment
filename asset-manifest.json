@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rachana-j/increment/static/css/main.756ed15b.css",
+    "main.js": "/rachana-j/increment/static/js/main.7e77782d.js",
+    "static/js/453.aa77d7ed.chunk.js": "/rachana-j/increment/static/js/453.aa77d7ed.chunk.js",
+    "index.html": "/rachana-j/increment/index.html",
+    "main.756ed15b.css.map": "/rachana-j/increment/static/css/main.756ed15b.css.map",
+    "main.7e77782d.js.map": "/rachana-j/increment/static/js/main.7e77782d.js.map",
+    "453.aa77d7ed.chunk.js.map": "/rachana-j/increment/static/js/453.aa77d7ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756ed15b.css",
+    "static/js/main.7e77782d.js"
+  ]
+}
